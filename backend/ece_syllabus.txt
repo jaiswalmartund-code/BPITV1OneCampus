@@ -1,0 +1,679 @@
+
+
+Handbook of B.Tech. Programmes offered by USICT at Affiliated Institutions of the University. 
+ 
+ 
+Applicable from Batch Admitted in Academic Session 2021-22 Onwards Page 380 
+ 
+ 
+Paper Code(s): BS‐202           L  P   C
+Paper: Probability, Statistics and Linear Programming4  ‐   4
+ 
+Marking Scheme: 
+1.   Teachers Continuous Evaluation: 25 marks 
+2.   Term end Theory Examinations: 75 marks 
+Instructions for paper setter: 
+1.   There should be 9 questions in the term end examinations question paper.
+2.   The first (1
+st
+) question should be compulsory and cover the entire syllabus. This question should be 
+objective, single line answers or short answer type question of total 15 marks. 
+3.   Apart from question 1 which is compulsory, rest of the paper shall consist of 4 units as per the syllabus. 
+Every unit shall have two questions covering the corresponding unit of the syllabus. However, the student 
+shall be asked to attempt only one of the two questions in the unit. Individual questions may contain upto 5 
+sub‐parts / sub‐questions. Each Unit shall have a marks weightage of 15. 
+4.   The questions are to be framed keeping in view the learning outcomes of the course / paper. The standard 
+/ level of the questions to be asked should be at the level of the prescribed textbook. 
+5.  The requirement of (scientific) calculators / log‐tables / data – tables may be specified if required. 
+Course Objectives: 
+1:    To understand probability and probability distributions.
+2:    To understand methods of summarization of data.
+3:    To understand and use test for hypothesis.
+4:    To understand methods for solving linear programming problems.
+Course Outcomes (CO): 
+CO1:  Ability to solve probability problems and describe probability distributions.
+CO2:  Ability to describe and summarize data.
+CO3:  Ability to use test for hypothesis.
+CO4:  Ability to formulate and solve linear programming problems.
+Course Outcomes (CO to Programme Outcomes (PO) Mapping (scale 1: low, 2: Medium, 3: High 
+CO/PO PO01  PO02  PO03  PO04 PO05 PO06 PO07 PO08 PO09 PO10  PO11  PO12
+CO1 ‐ 3 1 1 1‐‐‐‐‐1 2
+CO2 ‐ 3 1 1 1‐‐‐‐‐1 2
+CO3 ‐ 3 2 2 1‐‐‐‐‐2 2
+CO4 ‐ 3 3 3 1‐‐‐‐‐2 2
+ 
+Unit I 
+ 
+Basics: Probability and Statistical models, Sample Spaces and Events, Counting Techniques, Interpretations and 
+Axioms of Probability, Unions of Events and Addition Rules, Conditional Probability, Intersections of Events and 
+Multiplication and Total Probability Rules, Independence, Bayes’ Theorem, Random Variables. 
+Discrete and Continuous Random Variables and Distributions:  Probability Distributions and Probability Mass / 
+density Functions, Cumulative Distribution Functions, Mean and Variance of a Random Variable, Discrete and 
+continuous  Uniform  Distribution,  Binomial  Distribution,  Geometric  and  Negative  Binomial  Distributions, 
+Hypergeometric Distribution, Poisson Distribution. Normal Distribution, Normal Approximation to the Binomial, 
+and Poisson Distributions; Exponential Distribution, Erlang and Gamma Distributions, Weibull Distribution, 
+Lognormal Distribution, Beta Distribution.                            
+ 
+Unit II 
+ 
+Joint  Probability  Distributions  for  Two  Random  Variables,  Conditional Probability Distributions and 
+Independence, Joint Probability Distributions for Two Random Variables, Covariance and Correlation, Common 
+Joint Distributions, Linear Functions of RandomVariables, General Functions of Random Variables, Moment‐
+Generating Functions. 
+Numerical Summaries of Data, Stem‐and‐Leaf Diagrams, Frequency Distributions and Histograms, Box Plots, 
+Time Sequence Plots, Scatter Diagrams, Probability Plots. Point Estimation, Sampling Distributions and the 
+
+Handbook of B.Tech. Programmes offered by USICT at Affiliated Institutions of the University. 
+ 
+ 
+Applicable from Batch Admitted in Academic Session 2021-22 Onwards Page 381 
+ 
+ 
+Central Limit Theorem without proof, General Concepts of Point Estimation, Methods of Point Estimation, 
+Statistical Intervals for a Single Sample.        
+ 
+Unit III 
+ 
+Hypotheses Testing for a SingleSample: Tests on the Mean of a Normal Distribution with Variance Known / 
+Unknown, Tests on the Variance and Standard Deviationof a Normal Distribution, Tests on a Population 
+Proportion, Testing for Goodness of Fit, Nonparametric tests (Signed, Wilcoxon), Similarly Statistical Inference 
+forTwo Samples.  
+Regression and Correlation: Linear Regression, Least Squares Estimators, Hypotheses testing for simple linear 
+regression, Confidence Intervals, Adequacy of model, Correlation, Transformed Variables, Logistic Regression. 
+Similarly, for multiple linear regression including aspects of MLR.                
+ 
+Unit IV 
+ 
+Linear Programming: Introduction, formulation of problem, Graphical method, Canonical and Standard form of 
+LPP, Simplex method, Duality concept, Dual simplex method, Transportation and Assignment problem.    
+             
+Textbooks: 
+1. Applied Statistics and Probability for Engineers by Douglas G. Montgomery and Runger, Wiley, 2018  
+2. Linear Programming by G. Hadley, Narosa, 2002 
+ 
+References: 
+1.  Miller and Freund’s Probability and Statistics for Engineers by Richard A. Johnson, Pearson, 10
+th
+ Ed., 2018. 
+2. Probability & Statistics for Engineers & Scientists by Ronald E. Walpole, Raymond H. Myers, Sharon L. Myers 
+and Keying Ye, Pearson, 2016. 
+3. Statistics and probability with applications for engineers and scientists using Minitab, R and JMP, C. Gupta, 
+Irwin Guttman, and Kalanka P. Jayalath, Wiley, 2020. 
+4. Probability and Statistics for Engineering and the Sciences, Jay Devore, Cengage Learning, 2014. 
+5. Probability and Statistics in Emgineering, William W. Hines, Douglas C. Montgomery, David M. Goldman, 
+and Connie M. Borror, Wiley, 2003. 
+6.  Operations Research: An Introduction by Hamdy A. Taha, Pearson, 10th Edition, 2016 
+ 
+ 
+  
+
+Handbook of B.Tech. Programmes offered by USICT at Affiliated Institutions of the University. 
+ 
+ 
+Applicable from Batch Admitted in Academic Session 2021-22 Onwards Page 382 
+ 
+ 
+Paper Code(s): HS‐204           L  P   C
+Paper: Technical Writing 2  ‐   2
+ 
+Marking Scheme: 
+1.   Teachers Continuous Evaluation: 25 marks 
+2.   Term end Theory Examinations: 75 marks  
+3.   This is an NUES paper, hence all examinations to be conducted by the concerned teacher. 
+Instruction for paper setter: 
+1.   There should be 9 questions in the term end examinations question paper.
+2.   The first (1
+st
+) question should be compulsory and cover the entire syllabus. This question should be 
+objective, single line answers or short answer type question of total 15 marks. 
+3.   Apart from question 1 which is compulsory, rest of the paper shall consist of 4 units as per the syllabus. 
+Every unit shall have two questions covering the corresponding unit of the syllabus. However, the student 
+shall be asked to attempt only one of the two questions in the unit. Individual questions may contain upto 5 
+sub‐parts / sub‐questions. Each Unit shall have a marks weightage of 15. 
+4.   The questions are to be framed keeping in view the learning outcomes of the course / paper. The standard 
+/ level of the questions to be asked should be at the level of the prescribed textbook. 
+5.  The requirement of (scientific) calculators / log‐tables / data – tables may be specified if required. 
+Course Objectives: 
+1:    To improve grammar and sentence structure and build vocabulary.
+2:    To understand how to write different types of writings.
+3:    To understand how to compose different types of business documents.
+4:    To understand business ethics and develop soft skills.
+Course Outcomes (CO): 
+CO1:  Ability to improve grammar and sentence structure and build vocabulary.
+CO2:  Ability to write different types of writings with clarity.
+CO3:  Ability to write different types of business documents.
+CO4:  Ability to apply business ethics and enhance personality.
+Course Outcomes (CO to Programme Outcomes (PO) Mapping (scale 1: low, 2: Medium, 3: High 
+CO/PO PO01  PO02  PO03  PO04 PO05 PO06 PO07 PO08 PO09 PO10  PO11  PO12
+CO1 ‐    ‐    ‐    ‐    ‐   1   ‐   ‐   ‐   3    ‐    ‐
+CO2 ‐    ‐    ‐    ‐    ‐   1   ‐   ‐   ‐   3    ‐    ‐
+CO3 ‐    ‐    ‐    ‐    ‐   1   ‐   ‐   ‐   3    ‐    ‐
+CO4 ‐    ‐    ‐    ‐    ‐   1   ‐   3   ‐   3    ‐    ‐
+ 
+Unit I 
+ 
+Grammar and Vocabulary‐‐‐ Types of sentences (simple, complex and compound) and use of connectives in 
+sentences, Subject‐verb agreement, Comprehension, Synonyms and Antonyms, Homophones and Homonyms, 
+Word Formation: Prefixes and Suffixes, Indianism, Misappropriation and Redundant Words, Question Tags and 
+Short Responses.          
+ 
+Unit II 
+ 
+Writing Styles ‐‐ Expository, Explanatory, Descriptive, Argumentative and Narrative. 
+Precis writing, Visual Aids in Technical Writing, Plagiarism and Language Sensitivity in Technical Writing, 
+Dialogue Writing, Proposals: Purpose and Types. 
+ 
+Unit III 
+ 
+Letters at the Workplace—letter writing: Request, Sales, Enquiry, Order and Complaint. 
+Job Application‐‐‐Resume and Cover letter, Difference between Resume and CV, Preparation for Interview. 
+Meeting Documentation‐‐‐ Notice, Memorandum, Circular, Agenda, Office Order and Minutes of meeting, 
+Writing Instructions.                    
+
+Handbook of B.Tech. Programmes offered by USICT at Affiliated Institutions of the University. 
+ 
+ 
+Applicable from Batch Admitted in Academic Session 2021-22 Onwards Page 383 
+ 
+ 
+Unit IV 
+ 
+Ethics and Personality Development‐‐‐‐‐The Role of Ethics in Business Communication—Ethical Principles, Time 
+Management, Self‐Analysis through SWOT and JOHARI Window, Emotional Intelligence and Leadership Skills, 
+Team Building, Career Planning, Self Esteem. 
+ 
+Textbook: 
+1. Meenakshi Raman and Sangeeta Sharma, Technical Communication: Principles and Practice, Oxford 
+University Press, New Delhi (2015).  
+ 
+References: 
+1. Sanjay Kumar and Pushp Lata, Communication Skills, Oxford University Press, New Delhi (2015). 
+2.  Herta A Murphy, Herbert W Hildebrandt, Jane P Thomas, Effective Business Communication, Tata McGraw‐
+Hill, Hill Publishing Company Limited, Seventh Edition. 
+ 
+ 
+ 
+  
+
+Handbook of B.Tech. Programmes offered by USICT at Affiliated Institutions of the University. 
+ 
+ 
+Applicable from Batch Admitted in Academic Session 2021-22 Onwards Page 390 
+ 
+ 
+Paper Code(s): EEC‐206          L  P   C
+Paper: Network Analysis and Synthesis3  ‐   3
+ 
+Marking Scheme: 
+1.   Teachers Continuous Evaluation: 25 marks 
+2.   Term end Theory Examinations: 75 marks 
+Instructions for paper setter: 
+1.   There should be 9 questions in the term end examinations question paper.
+2.   The first (1
+st
+) question should be compulsory and cover the entire syllabus. This question should be 
+objective, single line answers or short answer type question of total 15 marks. 
+3.   Apart from question 1 which is compulsory, rest of the paper shall consist of 4 units as per the syllabus. 
+Every unit shall have two questions covering the corresponding unit of the syllabus. However, the student 
+shall be asked to attempt only one of the two questions in the unit. Individual questions may contain upto 5 
+sub‐parts / sub‐questions. Each Unit shall have a marks weightage of 15. 
+4.   The questions are to be framed keeping in view the learning outcomes of the course / paper. The standard 
+/ level of the questions to be asked should be at the level of the prescribed textbook. 
+5.  The requirement of (scientific) calculators / log‐tables / data – tables may be specified if required. 
+Course Objectives: 
+1. To understand the network theorem in AC circuit.
+2. To understand mathematical modelling of circuit.
+3. To understand two port parameter and transfer function.
+4. To understand realization of passive network and filter.
+Course Outcome (CO): 
+CO 1 Ability to apply network theorems in AC circuit.
+CO 2 Ability to determine transient respond of circuit.
+CO 3 Ability to determine two port parameter of circuit.
+CO 4 Ability to realize the circuit from their transfer function.
+Course Outcomes (CO) to Programme Outcomes (PO) Mapping (Scale ‐1: Low, 2: medium, 3: High) 
+CO/PO  PO01  PO02  PO03  PO04 PO05 PO06 PO07 PO08 PO09 PO10  PO11  PO12
+CO 1 3 3 3 3 211‐21‐ 2 
+CO 2 3 3 3 3 211‐21‐ 2 
+CO 3 3 3 3 3 211‐21‐ 2 
+CO 4 3 3 3 3 211‐21‐ 2 
+ 
+UNIT‐I 
+ 
+Application of Mesh current analysis, Node voltage analysis and Network theorems in AC circuits. 
+Graph theory: concept of tree, tie set matrix, cut set matrix and application to solve electric networks.    
+ 
+UNIT‐II 
+ 
+Periodic  waveforms  and  signal  synthesis,  properties  and  applications of Laplace transform of complex 
+waveform. 
+System modeling in terms of differential equations and transient response of R, L, C, series and parallel circuits 
+for impulse, step, ramp, sinusoidal and exponential signals by classical method and using Laplace transform.    
+ 
+UNIT‐III 
+ 
+Two port networks – Introduction of two port parameters and their interconversion, interconnection of two  
+2‐port networks, open circuit and short circuit impedances and ABCD constants, relation between image 
+impedances and short circuit and open circuit impedances. Network functions, their properties and concept of 
+transform impedance, Hurwitz polynomial.                            
+ 
+
+Handbook of B.Tech. Programmes offered by USICT at Affiliated Institutions of the University. 
+ 
+ 
+Applicable from Batch Admitted in Academic Session 2021-22 Onwards Page 391 
+ 
+ 
+UNIT IV 
+ 
+Positive real function and synthesis of LC, RC, RL Networks  in Foster’s I and II, Cauer’s I& II forms,  Introduction 
+of passive filter and their classification, frequency response, characteristic impedance of low pass, high pass, 
+Band Pass and Band reject  prototype section.                           
+        
+Textbook(s): 
+1. W H Hayt “Engineering Circuit Analysis” TMH Eighth Edition 
+2. Kuo, “Network analysis and synthesis” John Weily and Sons, 2nd Edition. 
+ 
+Reference Books: 
+1. S  Salivahanan    “Circuit Theory ”   Vikas Publishing House  1st Edition 2014 
+2. Van Valkenburg, “ Network analysis” PHI, 2000. 
+3. Bhise, Chadda, Kulshreshtha, “ Engineering network analysis and filter design” Umesh  publication, 2000. 
+4. D. R. Choudhary, “Networks and Systems” New Age International, 1999 
+5. Allan H  Robbins, W.C.Miller “Circuit Analysis theory and Practice”Cengage Learning Pub 5th Edition 2013 
+6. Bell “Electric Circuit” Oxford Publications  7th Edition. 
+  
+
+Handbook of B.Tech. Programmes offered by USICT at Affiliated Institutions of the University. 
+ 
+ 
+Applicable from Batch Admitted in Academic Session 2021-22 Onwards Page 392 
+ 
+ 
+Paper Code(s): ECC‐210 / ECC‐313         L  P   C
+Paper: Microprocessors and Microcontrollers3  ‐   3
+ 
+Marking Scheme: 
+1.   Teachers Continuous Evaluation: 25 marks 
+2.   Term end Theory Examinations: 75 marks 
+Instructions for paper setter: 
+1.   There should be 9 questions in the term end examinations question paper.
+2.   The first (1
+st
+) question should be compulsory and cover the entire syllabus. This question should be 
+objective, single line answers or short answer type question of total 15 marks. 
+3.   Apart from question 1 which is compulsory, rest of the paper shall consist of 4 units as per the syllabus. 
+Every unit shall have two questions covering the corresponding unit of the syllabus. However, the student 
+shall be asked to attempt only one of the two questions in the unit. Individual questions may contain upto 5 
+sub‐parts / sub‐questions. Each Unit shall have a marks weightage of 15. 
+4.   The questions are to be framed keeping in view the learning outcomes of the course / paper. The standard 
+/ level of the questions to be asked should be at the level of the prescribed textbook. 
+5.  The requirement of (scientific) calculators / log‐tables / data – tables may be specified if required. 
+Course Objectives: 
+1. To impart knowledge about architecture and instruction set of 8085 microprocessor so that students 
+can implement 8085 assembly language programs. 
+2. To impart knowledge about architecture and instruction set of 8086 microprocessor so that students 
+can implement 8086 assembly language programs. 
+3. To impart knowledge about interfacing of 8255, 8254/8253, 8251, 8259 and I/O devices with 8086 
+microprocessor. 
+4. To impart knowledge about architecture and operation of 8051 microcontroller and their interfacing 
+with memory and I/O. 
+Course Outcome (CO): 
+CO 1 Ability  to  understand  and  distinguish  the  use  of  different  8085  instructions,  timing  diagram, 
+addressing modes, interrupts and apply those instructions for implementing assembly language 
+programs.  
+CO 2 Ability to analyse the timing diagrams, understand its instruction set, assess its memory organisation 
+and will implement the assembly language programs ,  interfacing of memory with 8086 successfully  
+CO 3 Understand and realize the interfacing of 8255 (PPI), 8254/8255 (PIT), 8251 (USART), 8259 (PIC), 
+8279 (Keyboard and display), Sample and hold circuit, DAC/ADC, LCD & Stepper motor with 8086 
+microprocessor. 
+CO 4 Understand the architecture and operation of 8051 microcontroller and ability to use them for 
+designing various applications based on 8051 by implementing the elaborate instruction set. 
+Course Outcomes (CO) to Programme Outcomes (PO) Mapping (Scale ‐1: Low, 2: medium, 3: High) 
+CO/PO  PO01  PO02  PO03  PO04 PO05 PO06 PO07 PO08  PO09 PO10  PO11  PO12
+CO 1 3  3 3 2 ‐ 11‐ ‐ ‐  ‐  1
+CO 2 3  3 3 2 311‐‐    1
+CO 3 3  3 3 2 311‐ 1 ‐  ‐  1
+CO 4 3  3 3 2 311‐ ‐ ‐  ‐  1
+ 
+UNIT ‐ I 
+ 
+Introduction to Microprocessor Systems: Architecture and PIN diagram of 8085, Timing Diagram, memory 
+organization, addressing modes, interrupts. Assembly Language Programming. 
+ 
+UNIT – II 
+ 
+8086 Microprocessor: 8086 Architecture, difference between 8085 and 8086 architecture, generation of 
+physical address, PIN diagram of 8086, Minimum Mode and Maximum mode, Bus cycle, Memory Organization, 
+
+Handbook of B.Tech. Programmes offered by USICT at Affiliated Institutions of the University. 
+ 
+ 
+Applicable from Batch Admitted in Academic Session 2021-22 Onwards Page 393 
+ 
+ 
+Memory Interfacing, Addressing Modes, Assembler Directives, Instruction set of 8086, Assembly Language 
+Programming, Hardware and Software Interrupts. 
+ 
+UNIT – III 
+ 
+Interfacing of 8086 with 8255, 8254/8253, 8251, 8259: Introduction, Generation of I/O Ports, Programmable 
+Peripheral Interface (PPI)‐Intel 8255, Sample‐and‐Hold Circuit and Multiplexer, Keyboard and Display Interface, 
+Keyboard and Display Controller (8279), Programmable Interval timers (Intel 8253/8254), USART (8251), PIC 
+(8259), DAC, ADC, LCD, Stepper Motor. 
+ 
+UNIT – IV 
+ 
+Overview of Microcontroller 8051: Introduction to 8051 Micro‐controller, Architecture, Memory organization, 
+Special function registers, Port Operation, Memory Interfacing, I/O Interfacing, Programming 8051 resources, 
+interrupts, Programmer’s model of 8051, Operand types, Operand addressing, Data transfer instructions, 
+Arithmetic  instructions,  Logic  instructions,  Control  transfer  instructions,  Timer  &  Counter  Programming, 
+Interrupt Programming. 
+ 
+Textbook(s): 
+1. Muhammad Ali Mazidi, “Microprocessors and Microcontrollers”, Pearson, 2006 
+2. Douglas V Hall, “Microprocessors and Interfacing, Programming and Hardware” Tata McGraw Hill, 2006. 
+3. Ramesh Gaonkar, “MicroProcessor Architecture, Programming and Applications with the 8085”, PHI 
+ 
+References: 
+1. Muhammad Ali Mazidi, Janice GillispieMazidi, Rolin D. MCKinlay “The 8051 Microcontroller and Embedded 
+Systems”,2nd Edition, Pearson Education 2008. 
+2. Kenneth J. Ayala, “The 8086 Microprocessor: Programming & Interfacing The PC”, Delmar Publishers, 2007. 
+3. A K Ray, K M Bhurchandi, “Advanced Microprocessors and Peripherals”, Tata McGraw Hill, 2007. 
+4. Vaneet Singh, Gurmeet Singh, “Microprocessor and Interfacing”, Satya Prakashan, 2007. 
+ 
+  
+
+Handbook of B.Tech. Programmes offered by USICT at Affiliated Institutions of the University. 
+ 
+ 
+Applicable from Batch Admitted in Academic Session 2021-22 Onwards Page 394 
+ 
+ 
+Paper Code(s):  ECC‐212         L  P   C
+Paper: Digital Communications3  ‐   3
+ 
+Marking Scheme: 
+1.   Teachers Continuous Evaluation: 25 marks 
+2.   Term end Theory Examinations: 75 marks 
+Instructions for paper setter: 
+1.   There should be 9 questions in the term end examinations question paper.
+2.   The first (1
+st
+) question should be compulsory and cover the entire syllabus. This question should be 
+objective, single line answers or short answer type question of total 15 marks. 
+3.   Apart from question 1 which is compulsory, rest of the paper shall consist of 4 units as per the syllabus. 
+Every unit shall have two questions covering the corresponding unit of the syllabus. However, the student 
+shall be asked to attempt only one of the two questions in the unit. Individual questions may contain upto 
+5 sub‐parts / sub‐questions. Each Unit shall have a marks weightage of 15. 
+4.   The questions are to be framed keeping in view the learning outcomes of the course / paper. The standard 
+/ level of the questions to be asked should be at the level of the prescribed textbook. 
+5.  The requirement of (scientific) calculators / log‐tables / data – tables may be specified if required. 
+Course Objectives: 
+1. To  understand  importance  of  information  theory  in  digital  communication  and  various  PCM 
+modulation. 
+2. To understand the various basic concepts of digital communication.
+3. To understand the various digital Modulation‐demodulation techniques
+4. To understand various coding in digital communications.
+Course Outcome (CO): 
+CO 1 Ability to understand the need of digital communicationand conversion of analog to digital signals.
+CO 2 Ability  to  understand  the  effect  of  additive  white  Gaussian  Noise  on  digital  communication 
+modulation techniques. 
+CO 3 Ability to analyse the effect of inter symbol interference as the source of channel impairment and 
+the effect of multipath phenomenon. 
+CO 4 Ability to use and design communication systems for reliable communication
+Course Outcomes (CO) to Programme Outcomes (PO) Mapping (Scale ‐1: Low, 2: medium, 3: High) 
+CO/PO  PO01  PO02  PO03  PO04 PO05 PO06 PO07 PO08 PO09 PO10  PO11  PO12
+CO 1 3 3 3 3 211‐ 21 ‐ 2
+CO 2 3 3 3 3 211‐ 21 ‐ 2
+CO 3 3 3 3 3 211‐ 21 ‐ 2
+CO 4 3 3 3 3 211‐ 21 ‐ 2
+ 
+UNIT I 
+ 
+Review of probability theory and Stochastic processes, Poisson and Gaussian Process, Noise, Narrowband 
+Noise, Sinewave plus Narrowband Noise. Sampling Theory, PAM, Quantization characteristics, PCM, DPCM, 
+Delta Modulation, Adaptive Delta Modulation, Line Codes. 
+ 
+UNIT II 
+ 
+AWGN Channel Signalling: Geometric Representation of Signals, Conversion of Continuous AWGN Channel to a 
+vector channel: ASK, QASK, FSK, M‐array FSK, BPSK, DPSK, DEPSK, QPSK, M‐array PSK, QAM, MSK, GMSK, 
+Coherent and non‐coherent detection and other keying techniques. 
+ 
+UNIT III 
+ 
+Band Limited Channels: Error rate due to channel noise in a matched filer receiver, Intersymbol Interference, 
+Signal Design for Zero ISI, Raised cosine and square root raised cosine spectrum, Eye pattern, Adaptive 
+equalization, signalling over multiple baseband channel, Fading Channels: Propagation effects, Jakes Model, 
+
+Handbook of B.Tech. Programmes offered by USICT at Affiliated Institutions of the University. 
+ 
+ 
+Applicable from Batch Admitted in Academic Session 2021-22 Onwards Page 395 
+ 
+ 
+Statistical Characteristics of wideband wireless channel, Diversity techniques, MIMO, MIMO Capacity for 
+channel known at receiver, OFDM, Spread‐spectrum signals. 
+ 
+UNIT IV 
+ 
+Information  Theory:  Entropy,  Source  Coding  Theorem,  Lossless  data  compression,  Discrete  Memoryless 
+channel, Mutual Information, Channel Capacity, Channel Coding Theorem, Differential Entropy and Mutual 
+Information for Continuous Random Ensembles, Information Capacity Law. Error Control Coding: Introduction, 
+Error Control using forward correction, Linear Block Code, Cyclic Codes, Convolutional Codes. 
+ 
+Textbook(s): 
+1.   Simon Haykins, “Digital Communication Systems” John Wiley, 2014 
+ 
+References: 
+1. Simon Haykins and Michael Moher, “Communication Systems” John Wiley &sons Inc, 5
+th
+ edition, 2009. 
+2. B P Lathi and Zhi Ding, “Modern Digital and Analog Communication Systems”, OUP, 5
+th
+ edition, 2019 
+3. H P Hsu, Schaum Outline Series,  Analog and Digital Communications, TMH 2006 
+4. J.G Proakis, Digital Communication, 4th Edition, Tata Mc Graw Hill Company, 2001. 
+ 
+  
+
+Handbook of B.Tech. Programmes offered by USICT at Affiliated Institutions of the University. 
+ 
+ 
+Applicable from Batch Admitted in Academic Session 2021-22 Onwards Page 396 
+ 
+ 
+Paper Code(s): ECC‐214 L  P   C
+Paper: Analog Electronics – II 3  ‐   3
+ 
+Marking Scheme: 
+1.   Teachers Continuous Evaluation: 25 marks 
+2.   Term end Theory Examinations: 75 marks 
+Instructions for paper setter: 
+1.   There should be 9 questions in the term end examinations question paper.
+2.   The first (1
+st
+) question should be compulsory and cover the entire syllabus. This question should be 
+objective, single line answers or short answer type question of total 15 marks. 
+3.   Apart from question 1 which is compulsory, rest of the paper shall consist of 4 units as per the syllabus. 
+Every unit shall have two questions covering the corresponding unit of the syllabus. However, the student 
+shall be asked to attempt only one of the two questions in the unit. Individual questions may contain upto 5 
+sub‐parts / sub‐questions. Each Unit shall have a marks weightage of 15. 
+4.   The questions are to be framed keeping in view the learning outcomes of the course / paper. The standard 
+/ level of the questions to be asked should be at the level of the prescribed textbook. 
+5.  The requirement of (scientific) calculators / log‐tables / data – tables may be specified if required. 
+Course Objectives: 
+1. To understand Basic building block and characteristic of Op‐Amp
+2. To understand the frequency response and Configurations of Op‐Amp
+3. To analyze and design linear, nonlinear and Oscillators circuits using Op‐Amp
+4. To analyze and design active filters and to understand function of Op‐Amp based special ICs   
+Course Outcome (CO): 
+CO 1 Ability to understand and use Op‐Amps to design open‐loop and closed loop configuration. 
+CO 2 Ability to analyse frequency response of and Op‐Amp circuit.
+CO 3 Ability to use Op‐Amp in linear and non‐linear applications.
+CO 4 Ability to design Active Filters
+Course Outcomes (CO) to Programme Outcomes (PO) Mapping (Scale ‐1: Low, 2: medium, 3: High) 
+CO/PO  PO01  PO02  PO03  PO04 PO05 PO06 PO07 PO08 PO09 PO10  PO11  PO12
+CO 1 3 3 3 3 211‐21‐ 2 
+CO 2 3 3 3 3 211‐21‐ 2 
+CO 3 3 3 3 3 211‐21‐ 2 
+CO 4 3 3 3 3 211‐21‐ 2 
+ 
+UNIT – I 
+ 
+The Operational Amplifiers: Block diagram representation of OP‐AMP; Evolution of IC and types, Power supply 
+for Op‐Amp; The Ideal Op‐Amp: schematic, characteristics, equivalent circuit, Ideal voltage transfer curve, 
+typical IC 741 characteristics  
+Open Loop Op‐Amp configurations: The differential amplifier, inverting amplifier, non‐inverting amplifier 
+Closed loop Op‐Amp configurations: inverting and non‐inverting amplifiers, voltage followers, differential 
+amplifiers, closed loop frequency response & circuit stability, single supply operation of OP‐AMP, Inverting and 
+Non‐Inverting op‐amp. 
+ 
+UNIT – II 
+ 
+The Practical Op‐Amp: Input offset voltage, input bias current, input offset current, Total output offset voltage, 
+thermal drift, error voltage, Supply voltage rejection ration (SVRR), CMRR 
+Frequency Response of An Op‐Amp: Frequency response compensator networks, High frequency OP‐AMP 
+equivalent circuit, open loop voltage gain as a function of frequency, Slew rate, causes of slew rates and its 
+effects in application.   
+ 
+ 
+ 
+
+Handbook of B.Tech. Programmes offered by USICT at Affiliated Institutions of the University. 
+ 
+ 
+Applicable from Batch Admitted in Academic Session 2021-22 Onwards Page 397 
+ 
+ 
+UNIT – III 
+ 
+Linear  applications  of  Op‐Amps:  Summing,  scaling  and  averaging amplifier  (inverting,  non‐inverting  & 
+differential configuration), voltage to current & current to voltage converters, Integrator, Differentiator,  
+Non‐Linear  applications  of  IC  op‐amps:  Comparator,  Zero  crossing  detector,  Schmitt  Trigger,  Clipping  & 
+Clamping Circuits, Precision Rectifiers, sample and hold circuit 
+Oscillators: Principles & Types; Phase shift, Wein‐bridge & quadrature. Square wave, triangular wave and saw 
+tooth wave generators, voltage‐controlled oscillator 
+ 
+UNIT – IV 
+ 
+Active  Filters:  Classification  and  frequency  response  of  filters,  response  Advantages  of  active  filters, 
+characteristics of butter worth, chebyshev, first order and second order butter worth filters‐ low pass and high 
+pass types. Band pass & band reject filters.  
+Specialised IC‐ The 555 Timer: functional diagram, Monostable and Astable multivibrators; PLL: Basic PLL 
+principle, monolithic 565 PLL; Voltage Regulators, Three terminal IC voltage regulators(LM 317 
+ 
+ 
+Textbook(s): 
+1. Ramakant A. Gayakwad, “OP‐AMP and Linear ICs”, 4th Edition, Prentice Hall / Pearson Education, 2001. 
+2. D. Roy Choudhary & S. B Jain, “Linear Integrated Circuit”, 2nd ed. New age publication.2018. 
+ 
+References: 
+1. Adel S. Sedra and Kenneth C. Smith, “Micro Electronic Circuits Theory and  Applications,” 5th Edition , OUP, 
+2004. 
+2. David A. Bell, “Op‐amp & Linear ICs”, Oxford, 2013. 
+3. James M. Fiore, “Op Amps & Linear Integrated Circuits Concepts & Applications”, Cengage, 2010. 
+4. J. Michel Jacob, “Applications and Design with Analog Integrated Circuits”, PHI, 2004. 
+5. R. L. Boylestad and N. Nashlesky, “Electronic Devices and Circuit Theory”, Pearson Education, 11th Ed., 2014 
+6. J. Millman, C. Halkias, and C. D. Parikh, “Millman’s Integrated Electronics: Analog and Digital circuits and 
+system”, McGraw Hill Education, 2018. 
+ 
+  
+
+Handbook of B.Tech. Programmes offered by USICT at Affiliated Institutions of the University. 
+ 
+ 
+Applicable from Batch Admitted in Academic Session 2021-22 Onwards Page 328 
+ 
+ 
+Paper Code(s): ECC‐213 / ECC‐216           L  P   C
+Paper: Electromagnetic Field Theory3  ‐   3
+ 
+Marking Scheme: 
+1.   Teachers Continuous Evaluation: 25 marks 
+2.   Term end Theory Examinations: 75 marks 
+Instructions for paper setter: 
+1.   There should be 9 questions in the term end examinations question paper.
+2.   The first (1
+st
+) question should be compulsory and cover the entire syllabus. This question should be 
+objective, single line answers or short answer type question of total 15 marks. 
+3.   Apart from question 1 which is compulsory, rest of the paper shall consist of 4 units as per the syllabus. 
+Every unit shall have two questions covering the corresponding unit of the syllabus. However, the student 
+shall be asked to attempt only one of the two questions in the unit. Individual questions may contain upto 5 
+sub‐parts / sub‐questions. Each Unit shall have a marks weightage of 15. 
+4.   The questions are to be framed keeping in view the learning outcomes of the course / paper. The standard 
+/ level of the questions to be asked should be at the level of the prescribed textbook. 
+5.  The requirement of (scientific) calculators / log‐tables / data – tables may be specified if required. 
+Course Objectives : 
+  1.   To impart the basic laws of electrostatics.
+  2.   To impart the knowledge of electromagnetics.
+  3.   To impart the knowledge of solution to real life plan wave problems for various boundary conditions.
+  4.   To impart the knowledge of characteristics and impudence transformation on high frequency 
+transmission lines. 
+Course Outcomes (CO) 
+CO 1 Ability to understand the basic laws of electrostatics.
+CO 2 To understand the basic laws of electromagnetics.
+CO 3 Ability to provide solution of real life plan wave problems for various boundary conditions. 
+CO 4 To understand the characteristics and impudence transformation on high frequency transmission lines
+Course Outcomes (CO) to Programme Outcomes (PO) mapping (scale 1: low, 2: Medium, 3: High)  
+    PO01  PO02  PO03  PO04  PO05 PO06 PO07 PO08 PO09 PO10  PO11  PO12
+CO 1 3    3    3    3    2   1   1   ‐   2   1    ‐     2
+CO 2 3    3    3    3    2   1   1   ‐   2   1    ‐     2
+CO 3 3    3    3    3    2   1   1   ‐   2   1    ‐     2
+CO 4 3    3    3    3    2   1   1   ‐   2   1    ‐     2
+ 
+UNIT I 
+ 
+Introduction:  Review  of  scalar  and  vector  field,  Dot  and  Cross products,  Coordinate  Systems‐Cartesian, 
+cylindrical and spherical. Vector representation of surface, Physical interpretation of gradient divergence and 
+curl, Transformation of vectors in different co‐ordinate systems, dirac‐delta function.      
+Electrostatics: Electric field due to point‐charges, line charges and surface charges, Electrostatic potential, 
+Solution of Laplace and Poisson’s equation in one dimension, M‐method of image applied to plain boundaries, 
+field  mapping  and  conformal  transformation,  Electric  flux  density,  Boundary  conditions.  Capacitance: 
+calculation of capacitance for simple rectangular, cylindrical and spherical geometries, Electrostatic energy. 
+[T1,T2]
+ 
+UNIT II 
+ 
+Magnetostatics : Magnetic Induction and Faraday’s Law, Magnetic Flux Density, Magnetic Field Strength H, 
+Ampere, Gauss Law in the Differential Vector Form, Permeability, Energy Stored in a Magnetic Field, Ampere’s 
+Law for a Current Element, Volume Distribution of Current , Ampere’s Law Force Law, Magnetic Vector 
+Potential, The Far Field of a Current Distribution, Maxwell’s Equations:  The Equation of Continuity for Time 
+Varying Fields, Inconsistency of Ampere’s Law, Maxwell’s Equations, Conditions at a Boundary Surface.    
+[T1,T2]
+
+Handbook of B.Tech. Programmes offered by USICT at Affiliated Institutions of the University. 
+ 
+ 
+Applicable from Batch Admitted in Academic Session 2021-22 Onwards Page 329 
+ 
+ 
+UNIT III 
+ 
+Electromagnetic Waves: Continuity equations, Displacement current, Maxwell’s equation, Boundary conditions, 
+Plane wave equation and its solution in conducting and non‐conducting media, Phasor notation, Phase velocity, 
+Group  velocity,  Depth  of  penetration,  Conductors  and  dielectrics,  Impedance  of  conducting  medium. 
+Polarization, Reflection and refraction of plane waves at plane boundaries, Poynting vectors, and Poynting 
+theorem.             [T1,T2] 
+ 
+UNIT IV 
+ 
+Transmission  Lines:  Transmission  line  equations,  Characteristic  impendence,  Distortion‐less  lines,  Input 
+impendence of a loss less line, computation of primary and secondary constants, Open and Short circuited 
+lines,  Standing  wave  and  reflection  losses,  Impedance  matching,  Loading  of  lines,  Input  impedance  of 
+transmission lines, RF lines, Relation between reflection coefficient and voltage standing wave ratio (VSWR), 
+Lines of different lengths – λ/2, λ/4, λ/8 lines, Losses in transmission lines, Smith chart and applications, 
+impedance matching Single stub, Double stub.                        [T1,T2] 
+ 
+Textbook(s): 
+1. Matthew N. O. Sadiku , “Elements of Electromagnetics”, Oxford University Press 
+2. E. C. Jordon, K. G. Balman, “Electromagnetic Waves & Radiation System” PHI – 2nd Edition 
+ 
+Reference Books: 
+1. William H. Hayt, “Engineering Electromagnetics”, TMH 
+2. J.D. Kraus, “Electromagnetics”, TMH 
+3. David K. Cheng,” Field and Wave Electromagnetic”, 2nd Edition, Pearson Education Asia,2001 
+4. John R. Reitz, “Foundations of Electromagnetic Theory”. Pearson 
+ 
+ 
+  

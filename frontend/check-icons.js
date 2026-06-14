@@ -1,0 +1,11 @@
+import * as lucide from 'lucide-react';
+console.log('Lucide icons checks:');
+console.log('Flame:', typeof lucide.Flame);
+console.log('FlaskConical:', typeof lucide.FlaskConical);
+console.log('Database:', typeof lucide.Database);
+console.log('Monitor:', typeof lucide.Monitor);
+console.log('Network:', typeof lucide.Network);
+console.log('Sparkles:', typeof lucide.Sparkles);
+console.log('Award:', typeof lucide.Award);
+console.log('Code2:', typeof lucide.Code2);
+console.log('Beaker:', typeof lucide.Beaker);

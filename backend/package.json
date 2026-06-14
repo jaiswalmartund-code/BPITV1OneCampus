@@ -5,6 +5,9 @@
   "main": "index.js",
   "scripts": {
     "dev": "nodemon src/index.js",
+    "start": "node src/index.js",
+    "seed": "node src/seed-full.js",
+    "clear": "node src/clear-db.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
@@ -13,11 +16,15 @@
   "type": "module",
   "dependencies": {
     "bcrypt": "^6.0.0",
+    "cheerio": "^1.2.0",
     "cors": "^2.8.6",
     "dotenv": "^17.4.2",
     "express": "^5.2.1",
     "jsonwebtoken": "^9.0.3",
     "mongoose": "^9.6.2",
     "nodemon": "^3.1.14"
+  },
+  "devDependencies": {
+    "pdf-parse": "^1.1.1"
   }
 }

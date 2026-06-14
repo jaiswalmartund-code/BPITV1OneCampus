@@ -1,0 +1,784 @@
+
+
+GURU GOBIND SINGH INDRAPRASTHA UNIVERSITY, DELHI  
+BACHELOR OF BUSINESS ADMINISTRATION (BBA) 
+ 
+39 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+SEMESTER II 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+
+GURU GOBIND SINGH INDRAPRASTHA UNIVERSITY, DELHI  
+BACHELOR OF BUSINESS ADMINISTRATION (BBA) 
+ 
+40 
+ 
+BBA-102: Marketing Management 
+ L-3, T-1, Credits-4  
+Objective: To provide understanding of the marketing concepts and to familiarize with the 
+emerging trends in marketing. 
+Mapping the Course Outcomes with Programme Outcomes 
+ 
+COs 
+Detailed Course Outcomes 
+ 
+PO1 PO2 PO3 PO4 PO5 
+CO1 Explore the concepts of Marketing 
+Management 
+3 2 1 1 1 
+CO2 Appraise in New Product 
+Development, product line and 
+width and also product pricing. 
+2 3 2 3 1 
+CO3 Understand the role and relevance 
+of Place and intermediaries. 
+3 2 1 2 1 
+CO4 Acquire skills to understand the 
+factors which influence the 
+promotional mix. 
+2 3 2 3 2 
+CO5 Understand the concept and 
+importance of Direct Marketing, 
+Public Relations and Digital 
+Marketing. 
+3 2 1 1 1 
+CO6 Acquire skills to handle marketing 
+related business and research issues. 
+2 3 2 3 3 
+ Average 2.5 2.17 1.33 2.17 1.5 
+ 
+Course Content 
+Unit I   
+Introduction: Marketing - Meaning,  Scope  and  Importance;  Concepts,  Philosophies  of 
+Marketing;   Marketing   Environment:   Macro   and   Micro   environmental   factors.   Consumer 
+Decision  Making  Process;  Market  Segmentation- Levels  and  Bases  of  Segmenting  Consumer 
+Markets, Market Targeting- concept and criteria, Product Positioning – concept and bases. 
+(15 Hours) 
+Unit II                                                                                                                                          
+Marketing Mix Decision –Product and Pricing: Product Decisions: Concept and  classification; 
+Levels  of  Product.  Product  strategies;  Branding  decisions;  New Product Development; Product 
+life  cycle;  Pricing Decisions: Objectives; Factors affecting pricing; Pricing methods; Pricing 
+strategies.                             (15 Hours) 
+ 
+Unit III   
+Marketing  Mix  Decisions -Promotion  and  Distribution:  Distribution  Decisions:  Channels  of 
+distribution- types  and  functions.  Delivering  value- factors  affecting  choice  of  distribution 
+channel;  Channel  Management;  Promotion Decisions: Communication process; Decision about 
+Promotion mix tools:  advertising, personal selling, sales promotion, public relations, publicity 
+and direct marketing; Integrated Marketing Communication approach.                        (15 Hours) 
+ 
+  
+
+GURU GOBIND SINGH INDRAPRASTHA UNIVERSITY, DELHI  
+BACHELOR OF BUSINESS ADMINISTRATION (BBA) 
+ 
+41 
+ 
+Unit IV                                                                                                                                         
+Introduction   to   Emerging   Trends   in   Marketing: Relationship   Marketing,   Sustainable 
+Marketing,  Green  Marketing,  Social  marketing,  Digital  Marketing,  Social  Media  Marketing, 
+Role of AI and Robotics in Marketing, Ethical issues in Marketing.                                                                                     
+(15 Hours) 
+Note: Case Studies are to be covered relevant to the concepts. 
+ 
+Suggested Readings:(Latest Editions) 
+1. Kotler, P., Keller, K.L. , Marketing Management, Pearson Education. 
+2. Ramaswamy, V.S and Namakumari, S., Marketing Management: A Strategic Decision 
+Making Approach Global Perspective Indian Context, McGraw Hill Education Company.  
+3. Lamb, C.W, Hair, J.F, Sharma, D. &Mc Daniel C., Marketing- A South Asian Perspective 
+Edition, South-Western Cengage Learning. 
+4. Baines, P., Fill, C., Page, K., Sinha, P.K., Marketing (Asian Edition), Oxford University 
+Press, New Delhi. 
+5. Walker 0. C., Mullins J. & Boyd Jr. H. W., Marketing Strategy: A Decision Focused 
+Approach, McGraw Hill Education Company.  
+6. Panda, T.K,Marketing Management-Text and Cases, Taxmann,  
+ 
+ 
+  
+
+GURU GOBIND SINGH INDRAPRASTHA UNIVERSITY, DELHI  
+BACHELOR OF BUSINESS ADMINISTRATION (BBA) 
+ 
+42 
+ 
+BBA-104-Decision Techniques for Business 
+L-3, T-1, Credits -4 
+Objective: The objective of this paper is to develop student's familiarity  with the basic concept 
+and  tools  in  statistics  and  operations  research.  These techniques  assist  specially  in  resolving 
+complex problems serve as a valuable guide to the decision makers. 
+Mapping the Course Outcomes with Programme Outcomes 
+ Program level Outcomes  PO1 PO2 PO3 PO4 PO5 
+CO1 
+Understand the basic concepts of 
+Statistics 
+1 2 1 1 1 
+CO2 
+Apply  correlation  and  regression 
+concepts  in  business  &  research 
+problems 
+1 3 1 3 1 
+CO3 
+Explore     the     use     of     linear 
+programming in business 
+problem solving 
+1 3 1 3 1 
+CO4 
+Analyze transportation and 
+assignment problems 
+1 2 1 2 1 
+CO5 
+Evaluate alternatives before 
+taking business decisions 
+1 3 2 3 2 
+AVG 1 2.6 1.2 2.4 1.2 
+ 
+Course Contents 
+Unit 1 
+Statistics: Definition.  Importance  & Limitation,  Collection  of  data  and  formation  of  frequency 
+distribution, Graphic presentation of Frequency distribution - Graphics, Bars, Histogram.  
+Measures of Central Tendency - Mean Median and Mode, Partition values - quartiles, deciles and 
+percentiles; Measures of variation - Range, IQR, quartile, deciles and percentiles, mean deviation 
+and standard deviation. Normal distribution curves.                             (15 Hours) 
+ 
+Unit II 
+Correlation    Analysis: Correlation    Coefficient;    Assumptions    of    Correlation    Analysis; 
+Coefficients  of  Determination  and  Correlation;  Measurement  of  Correlation- Karl  Person's 
+Methods:   Spearman's   Rank   correlation;   Regression:   meaning,   assumptions of   regression, 
+regression lines, ordinary least square method of regression; Pitfalls and Limitations Associated 
+with Regression  and Correlation Analysis.       (15 Hours) 
+ 
+Unit III 
+Linear Programming: Concept and Assumptions, Usage in Business Decision Making,  Linear 
+Programming  Problem:  Formulation,  Methods  of  Solving:  Graphical  and  Simplex,  problems 
+with mixed constraints: Duality.       (15Hours)
+
+GURU GOBIND SINGH INDRAPRASTHA UNIVERSITY, DELHI  
+BACHELOR OF BUSINESS ADMINISTRATION (BBA) 
+ 
+43 
+ 
+Unit IV 
+Transportation  and  Assignment  problems: General  Structure  of  Transportation  Problem, 
+Methods   for   Finding   Initial   Solution   and   Testing   for   Optimality. Assignment   Problem: 
+Hungarian Assignment  Method,  unbalanced  assignment  problems,  restrictions  in  assignment, 
+Travelling Salesman Model.        (15 Hours) 
+ 
+Suggested Readings: (All latest editions) 
+1.  Vohra, N.D., Quantitative Techniques in Management, McGraw Hill Education. 
+2.  Gupta, SP and Gupta, P.K. Quantitative Techniques and Operation Research, Sultan Chand. 
+3.  Rajagopalan, S. &Sattanathan, R., Business Statistics & Operations Research, McGraw Hill  
+     Education. 
+4.  Sharma, J.K., Operations Research: Problems & Solutions, Macmillan India Ltd. 
+5.  Render, Barry, Stair, R.M., Hanna, M.E., Quantitative Analysis for Management, Pearson 
+     Education. 
+6.  Bajpai, N, Business Statistics, Pearson Education. 
+ 
+  
+
+GURU GOBIND SINGH INDRAPRASTHA UNIVERSITY, DELHI  
+BACHELOR OF BUSINESS ADMINISTRATION (BBA) 
+ 
+44 
+ 
+BBA 106: Human Resource Management 
+L-3, T-1, Credits: 04  
+Objective: To develop an understanding of the concepts, techniques and principles to manage 
+human resources of an organization. 
+ 
+Mapping the Course Outcomes with Programme Outcomes 
+COs Detailed Course Outcomes 
+Program Outcomes 
+PO1 PO2 PO3 PO4 PO5 
+CO1 
+Examine the concepts and 
+relevance of HRM 
+3 2 3 1 1 
+CO2 
+Explore the various dimensions 
+of Human Resource Planning 
+2 3 2 3 1 
+CO3 
+Analyse the needs, methods and 
+designing of training and 
+development programmes. 
+3 3 3 2 2 
+CO4 
+Exhibit the career planning and 
+career development 
+3 2 2 2 2 
+CO5 
+Acquire skills for employees 
+performance appraisal and to 
+understand the relevance of 
+employee maintenance and 
+Industrial Relations. 
+2 3 3 1 3 
+AVG 2.6 2.6 2.6 1.8 1.8 
+ 
+Course Content 
+Unit I            
+Introduction  to Human  Resource  Management: Functions of HR Manager;  Policies  related  to 
+Human  Resource  Management; Emerging  challenges  of  human  resource  management - Workforce 
+diversity,  welfare,  health,  safety,  social  security,  empowerment,  downsizing,  VRS,  work  life balance. 
+Employee code of conduct, Human Resource Information System (HRIS) and e-HRM.   
+           (15 Hours) 
+Unit II          
+Acquisition of Human Resource: Human resource planning- Quantitative and qualitative 
+dimensions; Job analysis – Job description and job specification; Recruitment–sources, process; 
+Selection – process, techniques and tools; induction and orientation; Retention.   
+           (15 Hours) 
+Unit III              
+Training  and  Development: Concept  and  importance;  Role  specific  and  competency-based 
+training; Training and development techniques and programs – Apprenticeship, understudy, Job 
+rotation, vestibule training, case study, role playing, sensitivity training, In- basket, management 
+games,   conferences   and   seminars,   coaching   and   mentoring,   management   development 
+programmes; Training process outsourcing, Cultural Shock.    (15 Hours) 
+ 
+Unit IV                
+Performance  Appraisal  and  Compensation  Management: Performance  appraisal- Nature, 
+objectives,  process,  methods,  Employee  counselling; Job  changes - Transfers  and  promotions. 
+Compensation-Rules and policies, Base and supplementary compensation; Individual and group 
+incentive plans; Fringe benefits; Performance linked compensation; Employee stock option; Pay 
+band compensation system; HR Audit, Contemporary issues in human resource management.  
+           (15 Hours) 
+
+GURU GOBIND SINGH INDRAPRASTHA UNIVERSITY, DELHI  
+BACHELOR OF BUSINESS ADMINISTRATION (BBA) 
+ 
+45 
+ 
+Note: Case Studies are to be covered relevant to the concepts. 
+ 
+Suggested Readings:(Latest Editions) 
+1. Dessler, Gary, A Framework for Human Resource Management, Pearson Publishers. 
+2. David   A.   Decenzo,   Stephen   P.   Robbins,   Susan   L.   Verhulst,   Human   Resource 
+Management, WileyIndia Private Limited. 
+3. Bohlendar and Snell, Principles of Human Resource Management, Cengage Learning. 
+4. Aswathappa,K, Human Resource Management, McGraw Hill Education Company. 
+5. Robert L. Mathis and Jackson, J., Human Resource Management, South-Western College 
+Publishing. 
+6. Rao, V. S. P.,  Human Resource Management: Text and Cases, Excel Books, Delhi 
+  
+
+GURU GOBIND SINGH INDRAPRASTHA UNIVERSITY, DELHI  
+BACHELOR OF BUSINESS ADMINISTRATION (BBA) 
+ 
+46 
+ 
+BBA 108: Business Communication 
+L-2, T-0, Credits: 02 
+Objective: To  train  students  to  enhance  their  skills  in  written  as  well  as  oral  Communication 
+through  practical  conduct  of  this  course.  This  course  will  help  students  in  understanding  the 
+principles & techniques of business communication. 
+Mapping the Course Outcomes with Programme Outcomes 
+COs 
+Detailed Course Outcomes 
+ 
+PO1 
+ 
+PO2 
+ 
+PO3 
+ 
+PO4 
+ 
+PO5 
+ 
+CO1 The students will have a broad and coherent 
+knowledge of business communication 
+concepts and understand its relevance in 
+every type of organization& at every 
+managerial level. 
+3 1 1 1 1 
+CO2 The students will be able to face and meet 
+the challenges of the corporate world more 
+effectively and efficiently and also 
+understand corporate multi cultural 
+environment and learn how to communicate 
+in a team 
+1 2 1 1 2 
+CO3 The students will learn to enhance their skills 
+in written Communication as well as oral 
+communication and also get a glimpse of 
+global communication 
+1 1 3 1 2 
+CO4 The student will imbibe the social and 
+cultural roots of business and develop Ability 
+to communicate efficiently and effectively in 
+a multi-cultural environment. They will also 
+understand other ethical & legal issues 
+related to Communication 
+1 1 3 1 3 
+AVG 1.5 1.25 2 1 2 
+ 
+Course Contents 
+Unit I 
+Fundamental  of  Communication: Meaning  and  significance  of  communication,  Process  of 
+Communication,  Principles  of  Effective   Business  Communication,  7Cs;  How  to   Improve 
+Command over Spoken and Written English, Effective Listening.    (6 Hours) 
+ 
+Unit II 
+Communicating in a Multicultural World: Idea of a global world, Impact of globalization on 
+organizational     and     multicultural     communication,     understanding     culture     for     global 
+communication;  Etic  and  Emic  approaches  to  culture,  The  Cross  Cultural  Dimensions  of 
+Business Communication, Technology  and Communication, Ethical &  Legal  Issues in Business 
+Communication, overcoming cross cultural communication barriers.   (8 Hours) 
+ 
+Unit III 
+Business letter writing and Presentation Tools: Business letters- Need, Functions and Layout 
+of Letter Writing, Types of Letter Writing: Persuasive Letters, Request Letters, Sales Letters and 
+
+GURU GOBIND SINGH INDRAPRASTHA UNIVERSITY, DELHI  
+BACHELOR OF BUSINESS ADMINISTRATION (BBA) 
+ 
+47 
+ 
+Complaints;  Employment  related  letters  Interview  Letters,  Promotion.  Letters,  Resignation 
+Letters,           (8 Hours) 
+ 
+Unit IV  
+Departmental Communication: Barriers of Communication, Meaning, Need and Types, News 
+Letters,  Circulars,  Agenda,  Notice,  Office  Memorandums,  Office  Orders,  Minutes  of  the 
+meeting.   Project   and   Report   writing,   How   to   Make   a   Presentation,   Presentation   Tools, 
+Guidelines for Effective Presentation.       (8 Hours) 
+ 
+Suggested Readings: (All latest editions) 
+1. Lesikar. Business Communication: Making Connections in a Digital World. McGraw Hill   
+    Education. 
+2. Boove, C.L., Thill, J.V. &Chaturvedi, M. Business Communication Today, Pearson. 
+3. Krizan et al. Effective Business Communication, Cengage Learning. 
+4. Scot, O. Contemporary Business Communication, Biztantra, New Delhi. 
+5. Bovee et al.. Intercultural Business Communication, Pearson Education 
+6. Penrose et al. Business Communication for Managers, Cengage Learning. 
+ 
+ 
+  
+
+GURU GOBIND SINGH INDRAPRASTHA UNIVERSITY, DELHI  
+BACHELOR OF BUSINESS ADMINISTRATION (BBA) 
+ 
+48 
+ 
+BBA 110: MOOC 
+         L-2, T-0, Credits-2 
+ 
+To  remove  rigid  boundaries  and  facilitate  new  possibilities  for  learners  in  education  system, 
+study webs of active learning for young aspiring minds is India’s Nation  Massive  Open  Online 
+Course  (MOOC)  platform.  Massive  Open  Online  Courses  (MOOCs)  are free  online  courses  
+which are designed to achieve the three cardinal principles of India’s education policy: Access, 
+Equity  and  Quality.  MOOCs  provide  an  affordable  and  flexible  way  to  learn  new  skills,  career 
+development, changing careers, supplemental learning, lifelong learning, corporate eLearning & 
+and deliver quality educational experiences at scale and more. 
+ A  student  will  have  the  option  to  earn  2 credits  by  completing  quality –assured  MOOC 
+programme of at least 8 weeks offered on the SWAYAM portal or any other online educational 
+platform  approved  by  the  UGC  /  regulatory  body  from  time  to  time.  Completion  certificate 
+followed  by  assignment  and  exams  of  opted  MOOC  should  be  submitted  to  respective  institute 
+for earning the course credit, i.e. 2. 
+For August session, tentative list of programmes will be available on the platform from May to 
+August  and  for  January  session,  tentative  list  of  programmes  will  be  available  on  the  platform 
+from October to January. 
+  
+
+GURU GOBIND SINGH INDRAPRASTHA UNIVERSITY, DELHI  
+BACHELOR OF BUSINESS ADMINISTRATION (BBA) 
+ 
+49 
+ 
+BBA 112: E-Commerce 
+L-2, T-0, Credits: 02 
+Objective: The course imparts understanding of the concepts and various application issues of e- 
+commerce like Internet infrastructure, security over internet, payment systems and various online 
+strategies for e-commerce. 
+ 
+Mapping the Course Outcomes with Programme Outcomes 
+Program level Outcomes PO1 PO2 PO3 PO4 PO5 
+CO1 
+Examine strengths and 
+weaknesses of digital 
+profiles of business 
+organizations 
+1 2 1 1 2 
+CO2 
+Explore   ways   to   enhance 
+online visibility of business 
+2 3 1 3 2 
+CO3 
+Analyze challenges of 
+security,  privacy  and  legal 
+jurisdictions in e commerce 
+1 3 1 2 1 
+CO4 
+Examine    the    barriers    to 
+successful online 
+positioning of businesses 
+2 2 3 2 3 
+AVG 1.5 2.5 1.5 2 2 
+ 
+Course Contents 
+Unit 1 
+Introduction  to  E-Commerce: Meaning,  nature,  concepts,  advantages,  disadvantages  and 
+reasons for transacting online, Electronic Commerce, Types of Electronic Commerce, Electronic 
+Commerce  Models,  Challenges  and  Barriers  in  E-Commerce  environment;  E-Commerce  in 
+India:  Transition  to  E-commerce  in  India,  Indian  readiness  for  E-commerce,  E-Transition 
+challenges for Indian corporate.         (8 Hours) 
+ 
+Unit II 
+Electronic  Payment  System: Digital  Payment  Requirements,  Electronic  Payment  System, 
+Types  of  Electronic  Payment  Systems,  Concept  of  e-Money,  Infrastructure  Issues  and  Risks  in 
+EPS, Electronic Fund Transfer.         (8 Hours) 
+ 
+Unit III 
+Security   Issues   in   E-Commerce: Need   and   concepts,   Electronic   Commerce   security 
+environment,   security   threats   in   E-Commerce   environment,   Basics   of   Encryption   and 
+Decryption.                                  (8 Hours) 
+ 
+Unit IV 
+E-commerce Applications: E-commerce applications in various industries, Emerging Trends in 
+E- Commerce,   Mobile   Commerce;   Economic,   Technological   and   Social   Considerations, 
+Regulatory and Ethical considerations in E-Commerce.    (6 Hours) 
+ 
+
+GURU GOBIND SINGH INDRAPRASTHA UNIVERSITY, DELHI  
+BACHELOR OF BUSINESS ADMINISTRATION (BBA) 
+ 
+50 
+ 
+Suggested Readings: (All latest editions) 
+1.   Elias M. Awad, Electronic Commerce - From Vision to Fulfillment, PHI Learning. 
+2.   Joseph, P.T. and Si., E-Commerce An Indian Perspective, PHI Learning. 
+3.   Efraim Turban, David King, Dennis Viehland, Jae Lee: Electronic Commerce A  
+      Managerial Perspective, Pearson Education. 
+4.  Bharat Bhaskar, Electronic Commerce- Framework, Technologies and Applications, Tata  
+     McGraw Hill. 
+5.  Dave Chaffey, E-Business and E-Commerce Management- Strategy, Implementation and  
+     Practice, Pearson Education. 
+6.  Schneider Gary, Electronic Commerce, Cengage Learning. 
+  
+
+GURU GOBIND SINGH INDRAPRASTHA UNIVERSITY, DELHI  
+BACHELOR OF BUSINESS ADMINISTRATION (BBA) 
+ 
+51 
+ 
+BBA 114: E-Commerce Lab 
+L-0, P-2, Credit: 01 
+Objective: The  course  equips  students  with  the  skills  to  design  and  develop  static  webpages 
+using HTML, create engaging digital content for social media and professional communication, 
+and  effectively  use  digital  tools  like  Canva  and  generative  AI  for  content  creation,  all  while 
+enhancing their proficiency in online branding, communication, and digital marketing strategies. 
+Lab would be based on the following:  
+ 
+1. Static  Webpage  Designing: Creating  Web  pages  using  HTML  Tags,  Elements,  Basic  and 
+advanced  text  formatting,  multimedia  components  in  HTML  documents,  Designing  of 
+webpage:  Document  Layout,  List,  Tables,  Hyperlink,  Working  with  Frames,  Forms  and 
+Controls and other relevant things. 
+2. Social  Media  &  Writing  Skills-Blogs,  Social  Networking  Sites,  Digital  Databases,  Online 
+Official  Correspondence,  Creating  Digital  Posters and  Online  Presentations using Canva, 
+Generative AI Tools, etc. 
+ 
+Mapping the Course Outcomes with the given Programme Outcomes 
+ Program level Outcomes  PO1 PO2 PO3 PO4 PO5 
+CO1 
+Proficient Web Design 
+and Development 
+1 3 2 3 1 
+CO2 
+Effective Use of Social 
+Media Platforms 
+3 3 3 3 3 
+CO3 
+Digital Content 
+Creation and Design 
+2 3 3 3 3 
+CO4 
+Professional Writing 
+and Digital 
+Communication 
+2 3 3 2 2 
+AVG 2 3 2.75 2.75 2.25 
+ 
+  
+
+GURU GOBIND SINGH INDRAPRASTHA UNIVERSITY, DELHI  
+BACHELOR OF BUSINESS ADMINISTRATION (BBA) 
+ 
+52 
+ 
+BBA 116: Online/ Inhouse Industrial Skill-Based Training/ Apprenticeship 
+          
+Credits-4 
+ 
+The Assessment Online/ Inhouse Industrial Skill-Based Training/ Apprenticeship shall be as follows. 
+Internal Assessment     -  40 Marks 
+External Assessment (Viva Voce) -   60 Marks 
+ 
+Guidelines for Internal Assessment 
+1. The student has to submit the certificate of training/ Apprenticeship  
+2. Every student has to submit a spiral bind report to showcase the work done and learning during the 
+internship/apprenticeship and must appear for End Term Viva. 
+3. The guidelines for the report are to be designed by every institution. 
+4. All the records to be maintained by every institute and should be able to produce whenever required 
+by the university.  
+5. The duration of the training/apprenticeship will be the winter semester 
+6. The course may be offered by having an industry expert within campus/college and guide students on 
+projects within the premises or students doing live projects in industry either offline or online.  
+7. The institute must appoint an internal faculty mentor  for each student  in order to monitor/ assess the 
+training/apprenticeship and award internal marks 
+Note:  
+i. Each student is required to complete a minimum of 60 hours of training, which can be undertaken in 
+segments (on weekends),  or completed in one continuous session 
+ii. The university will conduct an external viva of 60 marks at the end of the semester  
+
+GURU GOBIND SINGH INDRAPRASTHA UNIVERSITY, DELHI  
+BACHELOR OF BUSINESS ADMINISTRATION (BBA) 
+ 
+53 
+ 
+BBA 118: Indian Knowledge Systems 
+         L-2, T-0, Credits-2 
+Objective: To create   awareness   amongst   the   youths   about   the   rich   culture   of   the country   by 
+understanding the scientific value of the traditional knowledge of India; promote spiritual knowledge and 
+wisdom in students, thereby shaping their personality and inculcating leadership skills. This course shall 
+enable students to get a holistic insight into the understanding the working of nature and life. 
+ 
+Mapping the Course Outcomes with Programme Outcomes 
+Cos 
+Detailed Course Outcomes 
+Program Outcomes 
+PO1 PO2 PO3 PO4 PO5 
+CO1 Students will be able to understand 
+the context in which they are 
+embedded i.e. Indian culture and 
+civilisation including its Knowledge 
+System and Tradition. 
+1 1 2 2 3 
+CO2 Students will be able to understand 
+the knowledge, skills and values in 
+ancient Indian systems 
+1 2 2 2 3 
+CO3 
+Students will be able to analyze the 
+enriched scientific Indian heritage 
+1 2 3 3 2 
+CO4 Students will be able to explore the 
+contribution from Ancient Indian 
+system; tradition to modern science 
+and Commerce 
+1 2 3 3 3 
+AVG 
+1 1.75 2.5 2.5 2.75 
+ 
+Course Contents 
+Unit I: 
+Overview  of  Indian  Knowledge: Philosophy:  The  Vedic  Tradition,  Upanishad  and  Classical  Indian 
+Darshanas, Indian Culture & Civilization –Different stages in the evolution of Indian Culture, Distinctive 
+features of Indian culture, Components of Culture and Indian Music and Dance.  (8 Hours) 
+ 
+Unit II:  
+Integrating  Indian  Knowledge  System  into  Commerce: Introduction  to  Arthashastra by 
+Kautilya, Traditional Knowledge Digital Library (TKDL), Geographical Indications of Goods. 
+(8 Hours) 
+ 
+Unit III: 
+Spirituality: Spirituality  vis-à-vis  religion,  Concept  of  Maya (Illusion) – Advaita  Vedanta, 
+Meaning,   scope   and   implications   at   work,   Concept   of   Dharma:   varna   ashram   dharma, 
+svadharma, Concept of karma – meaning and importance to managers, corporate karma. Concept 
+of Vasudhaiva Kutumbakam.        (8 Hours) 
+ 
+Unit IV:  
+Spirituality,  Science,  Engineering  and  Technology  in  IKS:   Mathematics,  Astronomy, 
+Engineering   and   Technology:   Metals   and   Metalworking,   Town   Planning,   Architectural 
+Engineering: Vastu Shastra and Shilpa Shastra.     (6 Hours) 
+        
+
+GURU GOBIND SINGH INDRAPRASTHA UNIVERSITY, DELHI  
+BACHELOR OF BUSINESS ADMINISTRATION (BBA) 
+ 
+54 
+ 
+Suggestive Readings: 
+1. B Mahadevan, Introduction To Indian Knowledge System : Concepts And Applications, 
+PHI 
+2. Kapur K and Singh A.K. Indian Knowledge Systems, Vol. 1. Indian Institute of 
+Advanced Study, Shimla, D.K. Printworld (P) Ltd 
+3. The Cultural Heritage of India. Vol.I. Kolkata: Ramakrishna Mission Publication,  
+4. Nair, Shantha N. Echoes of Ancient Indian Wisdom, Hindology Books. 
+5. Majumdar R. C., Raychaudhuri H. C. and Datta, K An Advanced History of India 
+Macmillan &amp; Co., Limited, London, 
+6. Rao, N. The Four Values in Indian Philosophy and Culture. Mysore: University of 
+Mysore. 
+ 
+  
+
+GURU GOBIND SINGH INDRAPRASTHA UNIVERSITY, DELHI  
+BACHELOR OF BUSINESS ADMINISTRATION (BBA) 
+ 
+55 
+ 
+Program Outcomes (At the end of First Year): Under Graduate Certificate in Business 
+Administration (w.e.f 2025-26) 
+PO1. Conceptualize and appreciate theoretical knowledge of management domain. 
+PO2. Appreciate  the importance  of  effective  communication  skills  for  building  connect  and 
+engagement 
+PO3. Nurture an ability to articulate a business environment and express opinions, ideas etc. 
+PO4. Identify a problem with the help of data and logical thinking 
+ 
+Program Outcomes (At the end of Second Year): Under Graduate Diploma in Business 
+Administration (w.e.f 2024-25) 
+PO1. Describe the theoretical domain knowledge along with the managerial skills 
+PO2. Develop effective presentation, communication skills and logical thinking. 
+PO3. Learn and demonstrate professional and ethical conduct· 
+PO4. Appreciate the importance of Collaborative atmosphere. 
+PO5. Develop an ability to innovate and creative thinking. 
+ 
+Program Outcomes (At the end of Third Year): Under Graduate Degree in Business 
+Administration 
+PO1. Develop conceptual knowledge and understanding of management theories and       
+      practices. 
+PO2. Apply critical thinking and analytical skills for effective business decision making. 
+PO3. Develop  communication  and  leadership  abilities  to  steer  through  the  dynamic  and  global 
+business environment. 
+PO4. Demonstrate  business  intelligence  and  foster  research  to  find  innovative  solutions  for 
+diverse business situations. 
+PO5. Imbibe  responsible  citizenship,  promoting  sustainability,  and  embrace  diverse  cultures 
+with universal values. 
+ 
+Program Outcomes (At the end of fourth Year): Bachelor in Business Administration with 
+Honours: BBA (Honours) and Bachelor in Business Administration Honours with Research: 
+BBA (Honours with Research) 
+PO1. Exhibit  factual  and  theoretical  knowledge  of  management  in  general  and  business  in 
+particular. 
+PO2. Critically  evaluate,  analyse  and  articulate  Indian  and  global  business  environments  with 
+ability to apply learning in different contexts and facilitate informed decision making with 
+an acumen to influence and motivate teams. 
+PO3. Exhibit  ability  to  own  roles  and  responsibilities  at  different  levels  with  commitment,  as 
+members  of  multi-cultural  team  and  communities  in  cross-cultural  contexts  and  diversity 
+management. 
+
+GURU GOBIND SINGH INDRAPRASTHA UNIVERSITY, DELHI  
+BACHELOR OF BUSINESS ADMINISTRATION (BBA) 
+ 
+56 
+ 
+PO4. Promote research skills to design and implement innovative solutions in Indian and Global 
+Business Environment. 
+PO5. Imbibe responsible citizenship, promoting sustainability, and embrace diverse cultures with 
+universal values 
+ 
+  
+
+GURU GOBIND SINGH INDRAPRASTHA UNIVERSITY, DELHI  
+BACHELOR OF BUSINESS ADMINISTRATION (BBA) 
+ 
+57 
+ 
+Program Specific Outcomes (Till the end of 4 years) 
+After the program, the students will be able to: 
+PSOs PSO Description 
+PSO 1.  Graduate   shall   have   the   ability   to   demonstrate   and   reflect   discipline/ 
+interdisciplinary  knowledge,  coherent  understanding  in  the  management  and 
+allied areas with an ability to apply learning in different contexts 
+PSO 2.   Graduate  shall  exhibit  professional  skills  instilling  critical  and  analytical 
+thinking   to   enthuse   problem   solving   abilities   in   different   domains   of 
+management.  
+PSO 3.  Graduate   shall   be   able   to   demonstrate   proficiency   (Articulate/Apply/ 
+analyze/evaluate) in varied management domain areas using latest research & 
+technological tools for innovative solutions in diverse business situations 
+PSO 4.  Graduate  shall  become  a  responsible  citizen  inculcating  interpersonal  skills, 
+social  skills,  lifelong  learning  (learn,  unlearn  &  relearn),  entrepreneurial 
+acumen, leadership abilities and adaptability to dynamic business landscapes. 
+ 
+Mapping of PO’s and PSO’s (At the end of first year) 
+ 
+Program Specific 
+Outcomes 
+PO1 PO2 PO3 PO4 AVG 
+PSO1 3 3 3 3 3 
+PSO2 
+2 3 3 3 2.75 
+PSO3 
+2 3 3 3 2.75 
+PSO4 
+1 3 3 2 2.25 
+AVG 
+2 3 3 2.75 2.7 
+Average PO expected 
+attainment 
+2.7  
+ 
+
+GURU GOBIND SINGH INDRAPRASTHA UNIVERSITY, DELHI  
+BACHELOR OF BUSINESS ADMINISTRATION (BBA) 
+ 
+58 
+ 
+Mapping of PO’s and PSO’s (At the end of second year)  
+Program Specific 
+Outcomes 
+PO1 PO2 PO3 PO4 PO5 Average 
+PSO1 3 3 3 2 2 2.6 
+PSO2 
+2 3 3 3 2 2.6 
+PSO3 
+2 3 3 3 3 2.8 
+PSO4 
+2 2 3 3 3 2.6 
+AVG 
+2.25 2.75 3 2.75 2.5 2.7 
+Average PO expected 
+attainment 
+2.7  
+ 
+Mapping of PO’s and PSO’s (At the end of third year) 
+ 
+Program Specific 
+Outcomes 
+PO1 PO2 PO3 PO4 PO5 AVG 
+PSO1 3 3 3 3 2 2.8 
+PSO2 
+2 3 3 3 2 2.6 
+PSO3 
+2 3 3 3 2 2.6 
+PSO4 
+2 3 3 2 3 2.6 
+AVG 
+2.25 3 3 2.75 2.25 2.7 
+Average PO expected 
+attainment 
+2.7  
+ 
+Mapping of PO’s and PSO’s (At the end of 4 years) 
+Program Specific 
+Outcomes 
+PO1 PO2 PO3 PO4 PO5 AVG 
+PSO1 3 3 2 3 2 2.6 
+PSO2 
+3 3 3 3 3 3 
+PSO3 
+2 3 3 3 3 2.8 
+PSO4 
+2 3 3 3 3 2.8 
+AVG 
+2.5 3 2.75 3 2.75 2.8 
+Average PO expected 
+attainment 
+2.8  
+ 
+ 
