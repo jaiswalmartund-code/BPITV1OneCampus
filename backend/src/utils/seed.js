@@ -41,9 +41,9 @@ const seedDatabase = async () => {
         department: 'Computer Science Department',
         designation: 'Professor',
         assignedClasses: [
-          { semester: 4, classSection: 'ECE-A' },
-          { semester: 4, classSection: 'ECE-B' },
-          { semester: 4, classSection: 'ECE-C' }
+          { semester: 4, classSection: 'ECE-A', branch: 'ECE', subjectTaught: 'Microprocessors & Microcontrollers' },
+          { semester: 4, classSection: 'ECE-B', branch: 'ECE', subjectTaught: 'Probability Statistics & Linear Programming' },
+          { semester: 4, classSection: 'ECE-C', branch: 'ECE', subjectTaught: 'Digital Communication' }
         ],
       },
       {
@@ -52,7 +52,7 @@ const seedDatabase = async () => {
         department: 'Electronics Department',
         designation: 'Professor',
         assignedClasses: [
-          { semester: 4, classSection: 'ECE-D' }
+          { semester: 4, classSection: 'ECE-D', branch: 'ECE', subjectTaught: 'Control Systems' }
         ],
       },
       {
