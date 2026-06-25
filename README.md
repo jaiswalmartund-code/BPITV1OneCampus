@@ -145,7 +145,7 @@ Use the following pre-seeded user accounts to test the portals:
 
 ### 1. Administrator Account
 * **Email**: admin@onecampus.edu
-* **Password**: admin123
+* **Password**: admin@1615
 
 ### 2. Faculty / Teacher Account (Prof One)
 * **Email**: prof1@gmail.com

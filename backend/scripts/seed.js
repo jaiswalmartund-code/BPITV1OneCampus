@@ -27,7 +27,7 @@ const seedDatabase = async () => {
     const admin = await User.create({
       name: 'Admin Super Admin',
       email: 'admin@onecampus.edu',
-      password: 'admin123',
+      password: 'admin@1615',
       role: 'admin',
     });
     console.log('Admin user created successfully.');
