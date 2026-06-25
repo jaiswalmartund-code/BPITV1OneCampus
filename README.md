@@ -155,4 +155,4 @@ Use the following pre-seeded user accounts to test the portals:
 * **Name**: Martund Jaiswal
 * **Enrollment**: 00620802824
 * **Email**: martundjaiswal@onecampus.edu
-* **Password**: student123
+* **Password**: VIPIN JAISWAL
