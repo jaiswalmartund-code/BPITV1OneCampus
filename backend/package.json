@@ -6,8 +6,8 @@
   "scripts": {
     "dev": "nodemon src/index.js",
     "start": "node src/index.js",
-    "seed": "node src/seed-full.js",
-    "clear": "node src/clear-db.js",
+    "seed": "node scripts/seed-full.js",
+    "clear": "node scripts/clear-db.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],

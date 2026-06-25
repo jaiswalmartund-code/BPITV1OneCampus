@@ -1,9 +1,9 @@
 import mongoose from 'mongoose';
 import dotenv from 'dotenv';
-import User from '../models/user.model.js';
-import Student from '../models/student.model.js';
-import Faculty from '../models/faculty.model.js';
-import Class from '../models/class.model.js';
+import User from '../src/models/user.model.js';
+import Student from '../src/models/student.model.js';
+import Faculty from '../src/models/faculty.model.js';
+import Class from '../src/models/class.model.js';
 
 dotenv.config();
 

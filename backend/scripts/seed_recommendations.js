@@ -1,24 +1,12 @@
-/**
- * seed_recommendations.js
- * Seeds SyllabusRecommendation documents for:
- *   - ECE 4th Semester (BS-202, HS-204, EEC-206, ECC-210, ECC-212, ECC-214, ECC-213)
- *   - BBA 2nd Semester (BBA-102, BBA-104, BBA-106, BBA-108, BBA-112, BBA-118)
- *
- * Run: node src/seed_recommendations.js
- */
-
 import mongoose from 'mongoose';
 import dotenv from 'dotenv';
-import SyllabusRecommendation from './models/syllabusRecommendation.model.js';
+import SyllabusRecommendation from '../src/models/syllabusRecommendation.model.js';
 
 dotenv.config();
 
 const MONGO_URI = process.env.MONGO_URI || 'mongodb://127.0.0.1:27017/bpit_v1';
 
 const recommendations = [
-  // ─────────────────────────────────────────────────────────────────────
-  // ECE – 4th SEMESTER
-  // ─────────────────────────────────────────────────────────────────────
   {
     branch: 'ECE',
     semester: 4,
@@ -55,7 +43,6 @@ const recommendations = [
       { week: 'Week 3', title: 'Linear Programming & Mock Exam', description: 'Cover Unit IV: LP formulation, Simplex, Duality, Transportation & Assignment. Do a full mock paper in 3 hours.' },
     ],
   },
-
   {
     branch: 'ECE',
     semester: 4,
@@ -92,7 +79,6 @@ const recommendations = [
       { week: 'Week 3', title: 'Ethics & Mock Exam', description: 'Cover Unit IV: Business ethics, SWOT, JOHARI Window. Do one full mock paper and review teacher notes.' },
     ],
   },
-
   {
     branch: 'ECE',
     semester: 4,
@@ -130,7 +116,6 @@ const recommendations = [
       { week: 'Week 3', title: 'Network Synthesis & Filters', description: 'Cover Unit IV: Hurwitz polynomial, Foster/Cauer synthesis of LC/RC/RL, passive filter classification and design.' },
     ],
   },
-
   {
     branch: 'ECE',
     semester: 4,
@@ -169,7 +154,6 @@ const recommendations = [
       { week: 'Week 3', title: '8051 Microcontroller', description: 'Cover Unit IV: 8051 architecture, SFRs, port operations, timer/counter programming, and interrupt handling.' },
     ],
   },
-
   {
     branch: 'ECE',
     semester: 4,
@@ -208,7 +192,6 @@ const recommendations = [
       { week: 'Week 3', title: 'Information Theory & Error Coding', description: 'Cover Unit IV: Entropy, Channel Capacity, Shannon theorem, Linear Block Codes, Cyclic Codes, Convolutional Codes.' },
     ],
   },
-
   {
     branch: 'ECE',
     semester: 4,
@@ -247,7 +230,6 @@ const recommendations = [
       { week: 'Week 3', title: 'Active Filters & Specialised ICs', description: 'Cover Unit IV: Butterworth filter design, 555 timer monostable/astable, PLL basics (565), Voltage Regulators (LM317).' },
     ],
   },
-
   {
     branch: 'ECE',
     semester: 4,
@@ -286,10 +268,6 @@ const recommendations = [
       { week: 'Week 3', title: 'Transmission Lines & Smith Chart', description: 'Cover Unit IV: Transmission line equations, characteristic impedance, stubs, VSWR, Smith chart, single/double stub matching.' },
     ],
   },
-
-  // ─────────────────────────────────────────────────────────────────────
-  // BBA – 2nd SEMESTER
-  // ─────────────────────────────────────────────────────────────────────
   {
     branch: 'BBA',
     semester: 2,
@@ -329,7 +307,6 @@ const recommendations = [
       { week: 'Week 3', title: 'Promotion & Emerging Trends', description: 'Cover Unit IV: Promotion mix, IMC approach, Digital Marketing, Green Marketing, Social Media. Do 3 case studies.' },
     ],
   },
-
   {
     branch: 'BBA',
     semester: 2,
@@ -367,7 +344,6 @@ const recommendations = [
       { week: 'Week 3', title: 'Transportation & Assignment Problems', description: 'Cover Unit IV: Transportation initial solutions (NWCM, VAM), MODI method, Assignment Hungarian method, TSP.' },
     ],
   },
-
   {
     branch: 'BBA',
     semester: 2,
@@ -406,7 +382,6 @@ const recommendations = [
       { week: 'Week 3', title: 'Performance Appraisal & Compensation', description: 'Cover Unit IV: Appraisal methods, counselling, job changes, compensation policies, incentive plans, HR Audit.' },
     ],
   },
-
   {
     branch: 'BBA',
     semester: 2,
@@ -443,7 +418,6 @@ const recommendations = [
       { week: 'Week 3', title: 'Departmental Comm & Presentations', description: 'Cover Unit IV: Notice, Memorandum, Agenda, Minutes, Report writing, and presentation skills. Deliver 1 practice presentation.' },
     ],
   },
-
   {
     branch: 'BBA',
     semester: 2,
@@ -482,7 +456,6 @@ const recommendations = [
       { week: 'Week 3', title: 'Applications & Emerging Trends', description: 'Cover Unit IV: Industry-specific e-commerce applications, M-Commerce, AI in e-commerce, regulatory and ethical issues.' },
     ],
   },
-
   {
     branch: 'BBA',
     semester: 2,
@@ -526,7 +499,7 @@ const recommendations = [
 
 async function seed() {
   await mongoose.connect(MONGO_URI);
-  console.log('✅ Connected to MongoDB');
+  console.log('Connected to MongoDB');
 
   let inserted = 0;
   let updated = 0;
@@ -545,20 +518,20 @@ async function seed() {
     );
 
     if (result.upsertedCount > 0) {
-      console.log(`  ➕ Inserted: [${rec.branch} Sem ${rec.semester}] ${rec.subjectCode} – ${rec.subjectName}`);
+      console.log(`Inserted: [${rec.branch} Sem ${rec.semester}] ${rec.subjectCode} - ${rec.subjectName}`);
       inserted++;
     } else {
-      console.log(`  ♻️  Updated: [${rec.branch} Sem ${rec.semester}] ${rec.subjectCode} – ${rec.subjectName}`);
+      console.log(`Updated: [${rec.branch} Sem ${rec.semester}] ${rec.subjectCode} - ${rec.subjectName}`);
       updated++;
     }
   }
 
-  console.log(`\n✅ Seeding complete — ${inserted} inserted, ${updated} updated.`);
+  console.log(`\nSeeding complete - ${inserted} inserted, ${updated} updated.`);
   await mongoose.disconnect();
   process.exit(0);
 }
 
 seed().catch((err) => {
-  console.error('❌ Seed failed:', err);
+  console.error('Seed failed:', err);
   process.exit(1);
 });
