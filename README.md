@@ -147,15 +147,12 @@ Use the following pre-seeded user accounts to test the portals:
 * **Email**: admin@onecampus.edu
 * **Password**: admin123
 
-### 2. Faculty / Teacher Account (Dr. Rahul Sharma)
-* **Email**: rahul@onecampus.edu
-* **Password**: password123
+### 2. Faculty / Teacher Account (Prof One)
+* **Email**: prof1@gmail.com
+* **Password**: prof@123
 
-### 3. Student Accounts (ECE 4th Semester)
-* **Default Password for all Students**: student123
-* **Demo Student (Vikas Kumar)**:
-  * **Email**: vikas@onecampus.edu
-* **Other Demo Students**:
-  * aaravsharma@onecampus.edu
-  * adityasingh@onecampus.edu
-  * martundjaiswal@onecampus.edu
+### 3. Student Account (ECE 4th Semester - Section A)
+* **Name**: Martund Jaiswal
+* **Enrollment**: 00620802824
+* **Email**: martundjaiswal@onecampus.edu
+* **Password**: student123
